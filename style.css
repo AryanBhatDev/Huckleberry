@@ -18,10 +18,6 @@ body {
   margin: 0 auto;
 }
 
-.max-width-wrapper .intro-chunk {
-  margin-left: 24px;
-}
-
 .intro-chunk p {
   width: 100%;
   max-width: 320px;
